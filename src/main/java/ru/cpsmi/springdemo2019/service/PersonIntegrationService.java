@@ -1,0 +1,1 @@
+package ru.cpsmi.springdemo2019.service;import ru.cpsmi.springdemo2019.model.Person;public interface PersonIntegrationService {    Person getPerson(String id);}
